@@ -20,7 +20,7 @@ You can run the notebooks on Google Cloud via colab. The advantage of this appro
 
 You can also run the tutorial notebooks locally on your laptop. This way, you do not need an internet connection while you are working on most parts of the tutorial.
 
-Running notebooks locally is done via [Jupyter](https://jupyter.org/). If you do not have Jupyter installed yet, you first we need to create a Conda environment (see [here](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) for details). To do so, `git clone` this repository and run the following commands in your Terminal from the `ammi-2021-ConvNets` directory: 
+Running notebooks locally is done via [Jupyter](https://jupyter.org/). If you do not have Jupyter installed yet, you first we need to create a Conda environment (see [here](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) for details). To do so, `git clone` this repository and run the following commands in your Terminal from the [Convolution_Neural_Network](https://github.com/HabibMbow94/Convolution_Neural_Network.git) directory: 
 
 You can install all packages :
 
